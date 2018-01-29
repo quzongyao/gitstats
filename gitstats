@@ -47,7 +47,7 @@ conf = {
 	'linear_linestats': 1,
 	'project_name': '',
 	'processes': 8,
-	'start_date': '1.month.ago'
+	'start_date': ''
 }
 
 def getpipeoutput(cmds, quiet = False):
